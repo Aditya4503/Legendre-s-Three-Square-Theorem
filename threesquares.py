@@ -9,3 +9,5 @@ def threesquares(n):
     print(condition)
     
 threesquares(143)
+
+// Code by : alpha_maverick
