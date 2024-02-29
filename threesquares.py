@@ -10,4 +10,4 @@ def threesquares(n):
     
 threesquares(143)
 
-// Code by : alpha_maverick
+#Code by : alpha_maverick
